@@ -1,0 +1,14 @@
+body {
+  background: url(clock.jpg);
+  background-size: cover;         
+  background-repeat: no-repeat; 
+  background-position: center;    
+  height: 100vh;                 
+  color: rgb(85, 37, 10);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 8rem;
+  font-family: Arial;
+}
